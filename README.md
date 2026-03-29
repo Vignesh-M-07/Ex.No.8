@@ -83,11 +83,13 @@ Text-to-image models generate images from natural language descriptions. The qua
 
 ## Generated Output Image 1
 
-![Generated Output 1](ouptut1.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/2b847df8-40be-4f17-90e5-c9d66f9327f6" />
+
 
 ## Generated Output Image 2
 
-![Generated Output 2](output2.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/0e9e7a07-73c3-4986-952c-e44bbff88ff1" />
+
 ---
 
 ## 🏁 Conclusion
